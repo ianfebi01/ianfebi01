@@ -14,3 +14,4 @@ You can click the Preview link to take a look at your changes.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianfebi01&theme=dark)](https://github.com/ianfebi01/github-readme-stats)
 # Current Project
 1. Doing a project on GitLab (Privy Internship)
+2. Make retail POS for last exam on University
