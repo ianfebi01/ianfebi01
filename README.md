@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 - 💪🏻 Excellent capacity to retain new things
 
 # GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianfebi01)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ianfebi01&theme=dark)](https://github.com/stats-organization/github-stats-extended)
